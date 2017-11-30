@@ -1,0 +1,22 @@
+add images of proto drones
+add parallax bars
+add parallax
+popup bios on each team member
+getmii style header
+make each box header-sized
+footer with photo creds page
+contact form
+
+Harvey Wu - Columbia Engineering ’18 - hw2473@columbia.edu; CEO / Co-founder
+Baoyi “Eric” Xu - Columbia College ‘18 - bx2135@columbia.edu; CFO / Co-founder
+Lucas Schuermann - Columbia Engineering ‘18 - lvs2124@columbia.edu; CTO / Co-founder
+Shuaipeng “Mark” Fang - Columbia GS ‘18 - sf2700@columbia.edu; VP of Investor Relations
+Zixuan “Tommy” Fang - Columbia College ‘19 - zf2148@columbia.edu; Marketing Analyst
+Vinay Mehta - Columbia Engineering ‘18 - vm2372@columbia.edu; Marketing Analyst
+Aneesh Ashutosh - NYU '19; Webmaster / Software Engineer
+Carlos Martin - Columbia Engineering ‘18 - cgm2142@columbia.edu; Software Engineer
+Justin Calamari - Columbia Engineering ‘18 - jsc2223@columbia.edu; Data Analyst
+
+Since last meeting:
+SEO Optimized
+Code commented for readability
