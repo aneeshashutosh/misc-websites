@@ -1,0 +1,29 @@
+html {
+	background-color: black;
+}
+
+div {
+	color: white;
+}
+
+#title {
+	margin: auto;
+	position: relative;
+	text-align: center;
+	top: 30vh;
+	width: 100%;
+	font-size: 60px;
+}
+
+#contact {
+	margin: auto;
+	position: relative;
+	text-align: center;
+	top: 75vh;
+	width: 20%;
+	font-size: 20px;
+}
+
+#contact a {
+	color: white;
+}
